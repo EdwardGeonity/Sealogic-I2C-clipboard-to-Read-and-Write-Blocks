@@ -1,0 +1,1 @@
+# Sealogic-I2C-clipboard-to-Read-and-Write-Blocks
